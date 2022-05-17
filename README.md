@@ -1,4 +1,4 @@
-# Nome do projeto
+# PI-Correios-MensagemFacil
 
 
 
@@ -19,7 +19,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 * Você tem as seguintes bibliotecas de Python [Zeep](https://docs.python-zeep.org/en/master/) e [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/).
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando PI-Correios-MensagemFacil
 
 Para instalar o PI-Correios-MensagemFacil, siga estas etapas:
 
@@ -45,4 +45,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Projeto com licença MIT. Use-o como quiser [LICENÇA](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#PI-Correios-MensagemFacil)<br>
