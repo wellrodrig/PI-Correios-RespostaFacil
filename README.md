@@ -2,11 +2,9 @@
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/wellrodrig/PI-Correios-RespostaFacil?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/wellrodrig/PI-Correios-RespostaFacil?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
@@ -35,14 +33,5 @@ Etapas para utilizar o programa:
 2 – Insira o número de PI ou código de rastreio e clique em Pesquisar
 ```
 
-
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Projeto com licença MIT. Use-o como quiser [LICENÇA](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) para mais detalhes.
 
 [⬆ Voltar ao topo](#PI-Correios-MensagemFacil)<br>
